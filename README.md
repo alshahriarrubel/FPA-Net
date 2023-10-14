@@ -23,11 +23,11 @@ We have used 3 datasets
 
 # Citation 
 
-@article{rubel2023fpa,
-  title={FPA-Net: Frequency-guided Position-based Attention Network for Land Cover Image Segmentation},
-  author={Rubel, Al Shahriar and Shih, Frank Y},
-  journal={International Journal of Pattern Recognition and Artificial Intelligence},
-  year={2023},
-  publisher={World Scientific}
-}
+>@article{rubel2023fpa,
+>>  title={FPA-Net: Frequency-guided Position-based Attention Network for Land Cover Image Segmentation},
+>>  author={Rubel, Al Shahriar and Shih, Frank Y},
+>>  journal={International Journal of Pattern Recognition and Artificial Intelligence},
+>>  year={2023},
+>>  publisher={World Scientific}
+>}
 

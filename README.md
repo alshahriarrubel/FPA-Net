@@ -22,6 +22,5 @@ We have used 3 datasets
 <img width="486" alt="Screenshot 2023-10-14 at 2 42 13 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/abfaed2e-1441-4fda-b22d-d2856dc21fb0">
 
 # Citation 
-<br>
 Rubel, Al Shahriar, and Frank Y. Shih. "FPA-Net: Frequency-guided Position-based Attention Network for Land Cover Image Segmentation." International Journal of Pattern Recognition and Artificial Intelligence (2023).
 

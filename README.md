@@ -11,6 +11,8 @@ Official Code for [FPA-Net: Frequency-Guided Position-Based Attention Network fo
 * torchinfo
 * pandas
 * matplotlib
+* torch-dct
+* sklearn
 
 # Dataset 
 We have used 3 datasets

@@ -17,7 +17,7 @@ Official Code for [FPA-Net: Frequency-Guided Position-Based Attention Network fo
 # Dataset 
 We have used 3 datasets
 * #### **Deep Globe**
-  <img width="444" alt="Screenshot 2023-10-14 at 3 52 48 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/969dc83c-6c08-48fe-a353-3934debd5917" width="300"> <img width="715" alt="Screenshot 2023-10-14 at 3 53 15 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/9fa747e9-667b-4e6c-ba48-95907d337b86" width="300">
+  <img width="444" alt="Screenshot 2023-10-14 at 3 52 48 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/969dc83c-6c08-48fe-a353-3934debd5917" width="100"> <img width="715" alt="Screenshot 2023-10-14 at 3 53 15 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/9fa747e9-667b-4e6c-ba48-95907d337b86" width="100">
 
 * #### **GID-15**
 * #### **Land Cover AI**

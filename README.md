@@ -23,6 +23,5 @@ We have used 3 datasets
 
 # Citation 
 <br>
-<br>
 Rubel, Al Shahriar, and Frank Y. Shih. "FPA-Net: Frequency-guided Position-based Attention Network for Land Cover Image Segmentation." International Journal of Pattern Recognition and Artificial Intelligence (2023).
 

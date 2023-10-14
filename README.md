@@ -17,7 +17,7 @@ Official Code for [FPA-Net: Frequency-Guided Position-Based Attention Network fo
 # Dataset 
 We have used 3 datasets
 * #### **Deep Globe** * #### **Land Cover AI**
-<img width="30%" alt="Screenshot 2023-10-14 at 4 20 04 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/b57703aa-8e05-44d9-9b04-fd748afc8360"> <img width="30%" alt="Screenshot 2023-10-14 at 4 05 03 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/b412edc4-064e-4c6c-b5b2-945ad3618eaa"> <img width="30%" alt="Screenshot 2023-10-14 at 4 08 52 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/dcf4ee05-630b-4ce0-8b0d-f89959802e5b">
+<img height="90%" width="30%" alt="Screenshot 2023-10-14 at 4 20 04 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/b57703aa-8e05-44d9-9b04-fd748afc8360"> <img width="30%" alt="Screenshot 2023-10-14 at 4 05 03 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/b412edc4-064e-4c6c-b5b2-945ad3618eaa"> <img width="30%" alt="Screenshot 2023-10-14 at 4 08 52 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/dcf4ee05-630b-4ce0-8b0d-f89959802e5b">
 
  
 

@@ -22,6 +22,14 @@ We have used 3 datasets. Sample image and corresponding mask and RGB color code 
  <br>
 <img width="30%" alt="Screenshot 2023-10-14 at 3 53 15 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/0f2a141a-6271-4fae-8814-efa2d041db6e">&nbsp;&nbsp; <img height="205" width="30%" alt="Screenshot 2023-10-14 at 4 19 31 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/c91fc422-22c2-48f1-910b-e5206cb0c3ba">&nbsp;&nbsp; <img width="30%" alt="Screenshot 2023-10-14 at 4 19 14 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/6a5fb7f1-70b6-4742-8c84-ed28aa614cbd">
 
+# Notebook Sections
+* Dataset Preparation
+* Model Preparation (Before Training)
+* Start Training (DeepGlobe Dataset)
+* Start Testing
+* Evaluate the model with single image from test dataset
+* Evaluate the model with a random image
+* Save Figures
 
 # How to run
 * Download this repository and upload to Google Drive

@@ -23,8 +23,8 @@ We have used 3 datasets. Sample image and corresponding mask and RGB color code 
 
 
  <br>
-<img width="30%" alt="deepglobe_class" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/63e93fb6-f99a-4dda-bc72-cf1622d563c4"> &nbsp;&nbsp;<img width="30%" alt="gid_15_class" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/948bbbe6-652c-45dd-835d-68bbeb2fc8d6">
- &nbsp;&nbsp; <img height="205" width="30%" alt="landcoverAI_class" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/398c4223-545a-44a7-833f-682ab5e28903">
+<img width="30%" alt="deepglobe_class" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/63e93fb6-f99a-4dda-bc72-cf1622d563c4"> &nbsp;&nbsp;<img height="205"  width="30%" alt="gid_15_class" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/948bbbe6-652c-45dd-835d-68bbeb2fc8d6">
+ &nbsp;&nbsp; <img width="30%" alt="landcoverAI_class" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/398c4223-545a-44a7-833f-682ab5e28903">
 
 
 # Notebook Sections

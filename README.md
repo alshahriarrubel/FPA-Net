@@ -20,6 +20,9 @@ We have used 3 datasets
   <img width="40%" height="400" alt="Screenshot 2023-10-14 at 3 52 48 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/969dc83c-6c08-48fe-a353-3934debd5917"> <img width="50%" height="400" alt="Screenshot 2023-10-14 at 3 53 15 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/9fa747e9-667b-4e6c-ba48-95907d337b86">
 
 * #### **GID-15**
+  <img width="45%" alt="Screenshot 2023-10-14 at 4 05 03 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/f0657062-1b95-4bda-adfb-722b01f052c9"> <img width="45%" alt="Screenshot 2023-10-14 at 4 05 24 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/bb025f4d-caa7-466f-b4aa-57c31d4dac0e">
+
+
 * #### **Land Cover AI**
 
 # Visualization

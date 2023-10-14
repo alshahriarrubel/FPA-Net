@@ -33,7 +33,7 @@ We have used 3 datasets. Sample image and corresponding mask and RGB color code 
 
 # How to run
 * Download this repository and upload to Google Drive
-* Open the .ipynb file in Google Colab
+* Open the FPANet_DeepGlobe.ipynb file in Google Colab
 * Change the directory for data based on where your data are stored
 * Run the .ipynb file
 

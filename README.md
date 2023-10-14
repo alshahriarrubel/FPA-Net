@@ -39,7 +39,8 @@ We have used 3 datasets. Sample image and corresponding mask and RGB color code 
 * Run the .ipynb file
 
 # Visualization
-<img width="92%" alt="Screenshot 2023-10-14 at 2 42 13 PM" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/abfaed2e-1441-4fda-b22d-d2856dc21fb0">
+<img width="92%" alt="visualization" src="https://github.com/alshahriarrubel/FPA-Net-Frequency-guided-Position-based-Attention-Network-for-Land-Cover-Image-Segmentation/assets/24860187/83c5edb8-84de-4305-bd6e-181c21a34b8b">
+
 
 # Citation (Please cite the following research paper)
 Rubel, Al Shahriar, and Frank Y. Shih. "FPA-Net: Frequency-guided Position-based Attention Network for Land Cover Image Segmentation." International Journal of Pattern Recognition and Artificial Intelligence (2023).
